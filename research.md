@@ -12,12 +12,12 @@
 ## C
 
 - **Composites**: 
-	+ [Autodesk Ember]
-	+ [Exploring Materials Engineering]
+	+ [Autodesk Ember](/research/autodesk-ember.md)
+	+ [Exploring Materials Engineering](/research/exploring-materials-engineering.md)
 - **Computer Science**:
-	+ [Fortran 90 Tutorial]
-	+ [Computing with Geometry]
-	+ [Writing FreeDOS Programs in C]
+	+ [Fortran 90 Tutorial](/research/fortran-90-tutorial.md)
+	+ [Computing with Geometry](/research/computing-with-geometry.md)
+	+ [Writing FreeDOS Programs in C](http://www.freedos.org/books/cprogramming/)
 
 ## D
 

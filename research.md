@@ -24,7 +24,7 @@
 ## E
 
 - **Engineering**: 
-	+ [Engineering Drawing and Sketching](https://ocw.mit.edu/courses/mechanical-engineering/2-007-design-and-manufacturing-i-spring-2009/related-resources/drawing_and_sketching/)
+	+ [Engineering Drawing and Sketching](https://ocw.mit.edu/courses/2-007-design-and-manufacturing-i-spring-2009/pages/related-resources/drawing_and_sketching/)
 	+ [Generative Design 101](https://formlabs.com/blog/generative-design/)
 
 ## F

@@ -12,10 +12,11 @@ Free and/or open source software I use on a weekly basis.
 
 ## Cheat Sheets & Tutorials
 
-- [Linux Terminal Emulator Cheat Sheet](https://github.com/EvokeMadness/linux-terminal-emulator-cheat-sheets)
+- [Linux Command Line Cheat Sheet](https://github.com/EvokeMadness/linux-command-line-cheat-sheet)
 - [FreeCAD Cheat Sheets](https://github.com/EvokeMadness/FreeCAD-Cheat-Sheets)
 - [SALOME Cheat Sheets](https://github.com/EvokeMadness/SALOME-Cheat-Sheets)
 
-## Fun Stuff
+## Projects & Fun Stuff
 
 - [Cricut Projects](https://github.com/EvokeMadness/cricut-projects)
+- [My Palette](https://github.com/EvokeMadness/my-palette)

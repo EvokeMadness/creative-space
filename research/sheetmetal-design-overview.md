@@ -1,6 +1,6 @@
 ## Sheetmetal Design Overview
 
-Creo Parametric Help Center, Sheetmetal, Sheetmetal Design Overview
+Creo Parametric Help Center → Sheetmetal → Sheetmetal Design Overview
 
 Tutorials on sheetmetal using PTC Creo. Examples on bend tables are software agnostic.
 

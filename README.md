@@ -3,7 +3,7 @@ Resources for makers, hobbyists, and independent learners
 
 [Glossary](/glossary.md) | [Research](/research.md)
 
-This repository is intended for makers, hobbyists, and independent learners. If there are any broken links to an article please let me know and I will try to find an [original source](https://en.wikipedia.org/wiki/Primary_source). In the case that an article becomes old and/or unmaintained you can email me for a local backup. However, I also encourage you to try to find the original source through the [Internet Archive](https://archive.org/) or [Wayback Machine](https://web.archive.org/).
+This repository is intended for makers, hobbyists, and independent learners. If there are any broken links to an article please let me know and I will try to find an [original source](https://en.wikipedia.org/wiki/Primary_source). In the case that an article becomes old and/or unmaintained you can [email](mailto:antgonzales9643@gmail.com) me for a local backup. However, I also encourage you to try to find the original source through the [Internet Archive](https://archive.org/) or [Wayback Machine](https://web.archive.org/).
 
 
 ## [FOSS-Software](https://github.com/EvokeMadness/FOSS-Software)

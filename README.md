@@ -7,7 +7,6 @@ This repository is a collection of articles I've referenced over the years while
 
 Happy making!
 
-
 ## [FOSS-Software](https://github.com/EvokeMadness/FOSS-Software)
 
 Free and/or open source software I use on a weekly basis.

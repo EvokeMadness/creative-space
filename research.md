@@ -1,35 +1,37 @@
 # Research
+This page is organized by topic; in alphabetical order.
 
 *Note: some links on this page link directly to the article.*
 
 ## A
 
-- **Automotive**: 
-	+ [How to Jumpstart a Car](https://www.jdpower.com/cars/shopping-guides/how-to-jumpstart-a-car?make=&model=)
-
 ## B
 
 ## C
 
-- **Composites**: 
+- **Composites:**
 	+ [Autodesk Ember](/research/autodesk-ember.md)
-	+ [Exploring Materials Engineering](/research/exploring-materials-engineering.md)
-- **Computer Science**:
-	+ [Fortran 90 Tutorial](/research/fortran-90-tutorial.md)
-	+ [Computing with Geometry](/research/computing-with-geometry.md)
-	+ [Writing FreeDOS Programs in C](http://www.freedos.org/books/cprogramming/)
+	+ [Dr. Patrick P. Pizzo: Exploring Materials Engineering](/research/exploring-materials-engineering.md)
+- **Computer Science:**
+	+ [C.-K. Shene: Fortran 90 Tutorial](/research/fortran-90-tutorial.md)
+	+ [C.-K. Shene: Computing with Geometry](/research/computing-with-geometry.md)
+	+ [FreeDOS.org: Writing FreeDOS Programs in C](http://www.freedos.org/books/cprogramming/)
 
 ## D
 
+- **Drafting:**
+	+ [MIT: Engineering Drawing and Sketching](https://ocw.mit.edu/courses/2-007-design-and-manufacturing-i-spring-2009/pages/related-resources/drawing_and_sketching/)
 ## E
 
-- **Engineering**: 
-	+ [Engineering Drawing and Sketching](https://ocw.mit.edu/courses/2-007-design-and-manufacturing-i-spring-2009/pages/related-resources/drawing_and_sketching/)
-	+ [Generative Design 101](https://formlabs.com/blog/generative-design/)
+- **Engineering:**
+	+ [Formlabs: Generative Design 101](https://formlabs.com/blog/generative-design/)
 
 ## F
 
 ## G
+
+- **Game development:**
+	+ [Clint Bellanger: Isometric Tiles Math](https://clintbellanger.net/articles/isometric_math/)
 
 ## H
 
@@ -43,8 +45,10 @@
 
 ## M
 
-- **Mechanical**: 
-	+ [Skill Builder: Learn The Types Of Gears](https://makezine.com/2020/07/13/skill-builder-learn-the-types-of-gears/)
+- **Mechanical:**
+
+	+ [Dr. Rainer Hessmer: Involute Spur Gear Builder](http://hessmer.org/gears/InvoluteSpurGearBuilder.html)
+	+ [Make: Skill Builder: Learn The Types Of Gears](https://makezine.com/2020/07/13/skill-builder-learn-the-types-of-gears/)
 
 ## N
 
@@ -52,17 +56,17 @@
 
 ## P
 
+- **Portfolio:**
+	+ [MITMECHE: Portfolio - Criteria for Success](https://mitcommlab.mit.edu/meche/commkit/portfolio/)
+
 ## Q
 
 ## R
 
 ## S
 
-- **Science**: 
-	+ [What is chemistry?](https://www.livescience.com/45986-what-is-chemistry.html)
-
-- **Sheetmetal**: 
-	+ [Sheetmetal Design Overview](/research/sheetmetal-design-overview.md)
+- **Sheetmetal:**
+	+ [Creo: Sheetmetal Design Overview](/research/sheetmetal-design-overview.md)
 
 ## T
 
@@ -80,5 +84,8 @@
 
 ## Misc.
 
-- **Fun Stuff**: 
-	+ [Weaving Fabric With a Handmade Loom](https://www.scholastic.com/parents/school-success/learning-toolkit-blog/weaving-fabric-handmade-loom.html)
+- **Part Libraries:**
+	+ [VEX Robotics: CAD Resources for VEX IQ](https://kb.vex.com/hc/en-us/articles/360044338912-CAD-Resources-for-VEX-IQ)
+
+- **Fun Stuff:**
+	+ [Scholastic: Weaving Fabric With a Handmade Loom](https://www.scholastic.com/parents/school-success/learning-toolkit-blog/weaving-fabric-handmade-loom.html)

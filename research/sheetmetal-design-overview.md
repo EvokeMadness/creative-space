@@ -2,7 +2,7 @@
 
 Creo Parametric Help Center → Sheetmetal → Sheetmetal Design Overview
 
-Tutorials on sheetmetal using PTC Creo. Examples on bend tables are software agnostic.
+Tutorials on sheetmetal bending using PTC Creo. Examples on this page such as bend tables can be used in generic calculations.
 
 ## Link:
 

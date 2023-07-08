@@ -1,6 +1,6 @@
 ## Exploring Materials Engineering
 
-Overview and definitions of different materials by Dr. Patrick P. Pizzo from San Jose University.
+Overview and definitions for different materials by Dr. Patrick P. Pizzo from San Jose University.
 
 ## Link:
 

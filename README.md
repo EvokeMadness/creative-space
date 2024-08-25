@@ -1,36 +1,90 @@
-# mantle research
+# Awesome Engineering
 Resources for makers, hobbyists, and independent learners.
-
-[Research](/research.md) | [Glossary](/glossary.md)
 
 This repository is a collection of articles I've referenced over the years while doing various DIY projects. Each article has been carefully chosen, proofread for accuracy, and archived for preservation purposes. I keep backups of these articles in several forms: digital, physical, cloud, and here on GitHub. If there are broken links to an article, please let me know by opening an issue, and I will try to find an alternative to the [original source](https://en.wikipedia.org/wiki/Primary_source). In the case that an article becomes completely inaccessible, I will upload a digital copy; after examining the article's license and/or copyright. However, I also encourage you to try to find the original source through the [Internet Archive](https://archive.org/) or [Wayback Machine](https://web.archive.org/).
 
 Happy making!
 
-## [FOSS-Software](https://github.com/EvokeMadness/FOSS-Software)
+# Research
+This page is organized by topic; in alphabetical order.
 
-Free and/or open source software I use on a weekly basis.
+*Note: some links on this page link directly to the article.*
 
-## Cheat Sheets & Tutorials
+## A
 
-- [Linux Command Line Cheat Sheet](https://github.com/EvokeMadness/linux-command-line-cheat-sheet)
-- [FreeCAD Cheat Sheets](https://github.com/EvokeMadness/FreeCAD-Cheat-Sheets)
-- [AutoCAD Cheat Sheet](https://github.com/EvokeMadness/AutoCAD-2023-cheat-sheets)
-- [FreeCAD Part Workbench Tutorial](https://github.com/EvokeMadness/FreeCAD-part-workbench-tutorial)
-- [OpenVSP Cheat Sheets](https://github.com/EvokeMadness/OpenVSP-cheat-sheets)
-- [SALOME Cheat Sheets](https://github.com/EvokeMadness/SALOME-Cheat-Sheets)
+## B
 
-## My Tools and Profiles
+## C
 
-- [AutoCAD XTP](https://github.com/EvokeMadness/AutoCAD-2023-Allison-profile)
+- **Composites:**
+	- [Autodesk Ember](/research/autodesk-ember.md)
+	- [Dr. Patrick P. Pizzo: Exploring Materials Engineering](/research/exploring-materials-engineering.md)
+- **Computer Science:**
+	- [C.-K. Shene: Fortran 90 Tutorial](/research/fortran-90-tutorial.md)
+	- [C.-K. Shene: Computing with Geometry](/research/computing-with-geometry.md)
+	- [FreeDOS.org: Writing FreeDOS Programs in C](http://www.freedos.org/books/cprogramming/)
 
-## Game Source Preservation
+## D
 
-- [Minicraft](https://github.com/EvokeMadness/minicraft_source)
-- [Spelunky](https://github.com/EvokeMadness/spelunky_1_1_src)
+- **Drafting:**
+	- [MIT: Engineering Drawing and Sketching](https://ocw.mit.edu/courses/2-007-design-and-manufacturing-i-spring-2009/pages/related-resources/drawing_and_sketching/)
 
-## Projects & Fun Stuff
+## E
 
-- ["Gear Box"](https://github.com/EvokeMadness/gear-box)
-- [My Palette](https://github.com/EvokeMadness/my-palette)
-- [Papercraft Vernier Caliper](https://github.com/EvokeMadness/papercraft-vernier-caliper)
+## F
+
+## G
+
+## H
+
+## I
+
+## J
+
+## K
+
+## L
+
+## M
+
+- **Mechanical:**
+
+	- [Dr. Rainer Hessmer: Involute Spur Gear Builder](http://hessmer.org/gears/InvoluteSpurGearBuilder.html)
+	- [Make: Skill Builder: Learn The Types Of Gears](https://makezine.com/2020/07/13/skill-builder-learn-the-types-of-gears/)
+
+## N
+
+## O
+
+## P
+
+- **Portfolio:**
+	- [MITMECHE: Portfolio - Criteria for Success](https://mitcommlab.mit.edu/meche/commkit/portfolio/)
+
+## Q
+
+## R
+
+## S
+
+- **Sheetmetal:**
+	- [Creo: Sheetmetal Design Overview](/research/sheetmetal-design-overview.md)
+
+## T
+
+## U
+
+## V
+
+## W
+
+## X
+
+## Y
+
+## Z
+
+## Misc.
+
+- **Part Libraries:**
+	- [VEX Robotics: CAD Resources for VEX IQ](https://kb.vex.com/hc/en-us/articles/360044338912-CAD-Resources-for-VEX-IQ)

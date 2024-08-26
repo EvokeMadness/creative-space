@@ -1,8 +1,6 @@
-### Resources for makers and independent learners.
+### EvokeMadness/creative-space is a collection of articles about engineering for makers and independent learners.
 
-Check out: [Awesome Open Source](https://github.com/EvokeMadness/awesome-open-source)
-
-This repository is a collection of articles I've referenced over the years while doing various DIY projects. Each article has been carefully chosen, proofread for accuracy, and archived for preservation purposes. I keep backups of these articles in several forms: digital, physical, cloud, and here on GitHub. If there are broken links to an article, please let me know by opening an issue, and I will try to find an alternative to the [original source](https://en.wikipedia.org/wiki/Primary_source). In the case that an article becomes completely inaccessible, I will upload a digital copy; after examining the article's license and/or copyright. However, I also encourage you to try to find the original source through the [Internet Archive](https://archive.org/) or [Wayback Machine](https://web.archive.org/).
+Each article is proofread for accuracy, and archived in several forms: digital, physical, cloud, and privately on GitHub. If a link does not work, please let me know by opening an issue, and I will try to find an alternative to the original source. In the case that an article becomes inaccessible, I will upload a digital copy; after examining the article's copyright and/or license. However, I encourage you to try to find the original source through the [Internet Archive](https://archive.org/) or [Wayback Machine](https://web.archive.org/).
 
 Happy making!
 
@@ -11,22 +9,19 @@ Happy making!
 - **CAD**
 	- [Dr. Rainer Hessmer: Involute Spur Gear Builder](https://hessmer.org/gears/InvoluteSpurGearBuilder.html)
 
-- **Drafting:**
+- **Drafting**
 	- [MIT: Engineering Drawing and Sketching](https://ocw.mit.edu/courses/2-007-design-and-manufacturing-i-spring-2009/pages/related-resources/drawing_and_sketching/)
 	- [Adobe: How to draw cars](https://www.adobe.com/creativecloud/illustration/discover/how-to-draw-a-car.html)
 
-- **Sheetmetal:**
+- **Sheetmetal**
 	- [Creo: Sheetmetal Design Overview](https://support.ptc.com/help/creo/creo_pma/r8.0/usascii/#page/sheetmetal/sheetmetaldesign/The_Basics/Sheetmetal_Design_Overview.html#wwconnect_header)
 
-- **Composites:**
+- **Composites**
 	- [Autodesk Ember](/pages/autodesk-ember.md)
 	- [Dr. Patrick P. Pizzo: Exploring Materials Engineering](/pages/exploring-materials-engineering.md)
 
-- **Gears:**
+- **Gears**
 	- [Make: Learn The Types Of Gears](https://makezine.com/2020/07/13/skill-builder-learn-the-types-of-gears/)
-
-- **Part Libraries:**
-	- [VEX Robotics: CAD Resources for VEX IQ](https://kb.vex.com/hc/en-us/articles/360044338912-CAD-Resources-for-VEX-IQ)
 
 - **Miscellaneous**
 	- [Hobby CAD, CNC machining, and resin casting](https://lcamtuf.coredump.cx/gcnc/)
@@ -34,7 +29,7 @@ Happy making!
 
 ## Software Development
 
-- **Computer Science:**
+- **Computer Science**
 	- [FreeDOS: Writing FreeDOS Programs in C](https://www.freedos.org/books/cprogramming/)
 	- [Linux kernel coding style](https://www.kernel.org/doc/html/latest/process/coding-style.html)
 	- [C.-K. Shene: Fortran 90 Tutorial](https://pages.mtu.edu/~shene/COURSES/cs201/NOTES/fortran.html)

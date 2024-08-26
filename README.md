@@ -1,90 +1,53 @@
-# Awesome Engineering
-Resources for makers, hobbyists, and independent learners.
+### Resources for makers and independent learners.
+
+Check out: [Awesome Open Source](https://github.com/EvokeMadness/awesome-open-source)
 
 This repository is a collection of articles I've referenced over the years while doing various DIY projects. Each article has been carefully chosen, proofread for accuracy, and archived for preservation purposes. I keep backups of these articles in several forms: digital, physical, cloud, and here on GitHub. If there are broken links to an article, please let me know by opening an issue, and I will try to find an alternative to the [original source](https://en.wikipedia.org/wiki/Primary_source). In the case that an article becomes completely inaccessible, I will upload a digital copy; after examining the article's license and/or copyright. However, I also encourage you to try to find the original source through the [Internet Archive](https://archive.org/) or [Wayback Machine](https://web.archive.org/).
 
 Happy making!
 
-# Research
-This page is organized by topic; in alphabetical order.
+## Engineering
 
-*Note: some links on this page link directly to the article.*
-
-## A
-
-## B
-
-## C
-
-- **Composites:**
-	- [Autodesk Ember](/research/autodesk-ember.md)
-	- [Dr. Patrick P. Pizzo: Exploring Materials Engineering](/research/exploring-materials-engineering.md)
-- **Computer Science:**
-	- [C.-K. Shene: Fortran 90 Tutorial](/research/fortran-90-tutorial.md)
-	- [C.-K. Shene: Computing with Geometry](/research/computing-with-geometry.md)
-	- [FreeDOS.org: Writing FreeDOS Programs in C](http://www.freedos.org/books/cprogramming/)
-
-## D
+- **CAD**
+	- [Dr. Rainer Hessmer: Involute Spur Gear Builder](https://hessmer.org/gears/InvoluteSpurGearBuilder.html)
 
 - **Drafting:**
 	- [MIT: Engineering Drawing and Sketching](https://ocw.mit.edu/courses/2-007-design-and-manufacturing-i-spring-2009/pages/related-resources/drawing_and_sketching/)
-
-## E
-
-## F
-
-## G
-
-## H
-
-## I
-
-## J
-
-## K
-
-## L
-
-## M
-
-- **Mechanical:**
-
-	- [Dr. Rainer Hessmer: Involute Spur Gear Builder](http://hessmer.org/gears/InvoluteSpurGearBuilder.html)
-	- [Make: Skill Builder: Learn The Types Of Gears](https://makezine.com/2020/07/13/skill-builder-learn-the-types-of-gears/)
-
-## N
-
-## O
-
-## P
-
-- **Portfolio:**
-	- [MITMECHE: Portfolio - Criteria for Success](https://mitcommlab.mit.edu/meche/commkit/portfolio/)
-
-## Q
-
-## R
-
-## S
+	- [Adobe: How to draw cars](https://www.adobe.com/creativecloud/illustration/discover/how-to-draw-a-car.html)
 
 - **Sheetmetal:**
-	- [Creo: Sheetmetal Design Overview](/research/sheetmetal-design-overview.md)
+	- [Creo: Sheetmetal Design Overview](https://support.ptc.com/help/creo/creo_pma/r8.0/usascii/#page/sheetmetal/sheetmetaldesign/The_Basics/Sheetmetal_Design_Overview.html#wwconnect_header)
 
-## T
+- **Composites:**
+	- [Autodesk Ember](/pages/autodesk-ember.md)
+	- [Dr. Patrick P. Pizzo: Exploring Materials Engineering](/pages/exploring-materials-engineering.md)
 
-## U
-
-## V
-
-## W
-
-## X
-
-## Y
-
-## Z
-
-## Misc.
+- **Gears:**
+	- [Make: Learn The Types Of Gears](https://makezine.com/2020/07/13/skill-builder-learn-the-types-of-gears/)
 
 - **Part Libraries:**
 	- [VEX Robotics: CAD Resources for VEX IQ](https://kb.vex.com/hc/en-us/articles/360044338912-CAD-Resources-for-VEX-IQ)
+
+- **Miscellaneous**
+	- [Hobby CAD, CNC machining, and resin casting](https://lcamtuf.coredump.cx/gcnc/)
+	- [Neil Blevins: Art Lessons](http://neilblevins.com/)
+
+## Software Development
+
+- **Computer Science:**
+	- [FreeDOS: Writing FreeDOS Programs in C](https://www.freedos.org/books/cprogramming/)
+	- [Linux kernel coding style](https://www.kernel.org/doc/html/latest/process/coding-style.html)
+	- [C.-K. Shene: Fortran 90 Tutorial](https://pages.mtu.edu/~shene/COURSES/cs201/NOTES/fortran.html)
+	- [C.-K. Shene: Computing with Geometry](https://pages.mtu.edu/~shene/COURSES/cs3621/NOTES/notes.html)
+	- [DigitalOcean: Linux Basics](https://www.digitalocean.com/community/tags/linux-basics)
+
+## Writing
+
+- **Accessibility**
+	- [Federal Plain Language Guidelines](https://www.plainlanguage.gov/media/FederalPLGuidelines.pdf)
+
+- **Portfolio Help**
+	- [MITMECHE: Portfolio - Criteria for Success](https://mitcommlab.mit.edu/meche/commkit/portfolio/)
+- **Technical Writing**
+	- [Red Hat Technical Writing Style Guide](https://stylepedia.net/style/6.0/)
+	- [Google: Technical Writing Courses for Engineers](https://developers.google.com/tech-writing)
